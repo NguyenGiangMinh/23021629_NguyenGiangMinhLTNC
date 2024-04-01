@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void CaesarCipher(int n, string& str, int k)//chuyền vào địa chỉ
+void CaesarCipher(int n, string& str, int k)
 {
     for(char& c:str)
     {
