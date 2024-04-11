@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712812417 source:d:\baitapltnc\guessitsdl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+
